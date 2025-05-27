@@ -1,5 +1,6 @@
-## Hi there 👋
+# 📖 Christian Genete
 
+I'm a junior software engineer at the start of my journey - aiming to bring a positive change through my work. 
 <!--
 **ChrisGenete/ChrisGenete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
