@@ -1,5 +1,7 @@
 # 📖 Christian Genete
 
+**`Junior Developer`**
+
 I'm a junior software engineer at the start of my journey - aiming to bring a positive change through my work. 
 All coding projects are built from scratch, from planning and designing to solving real-life problems with code.
 Always aiming to enhance my knowledge base by learning more languages and applying them immediately. 
